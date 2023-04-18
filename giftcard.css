@@ -44,22 +44,22 @@ h2,h4{
     border: 7px solid rgb(59, 80, 167);
     height: 500px;
     border-radius: 10px;
-    background-image:url("image/gift.jpg") ;
+    background-image:url("/image/gift.jpg") ;
     background-size:cover;
     
 
    
 }
 #gift-imgs:hover{
-    background-image: url("image/200w.webp");
+    background-image: url("/image/200w.webp");
 }
 
 #gift-imga:hover{
-    background-image: url("image/300.webp");
+    background-image: url("/image/300.webp");
 }
 
 #gift-imgl:hover{
-    background-image: url("image/200.webp");
+    background-image: url("/image/200.webp");
 }
 #footer{
     width: 300px;
